@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mkotsovoulou
 - 👀 I am an IT Professor at the American College of Greece
 - ✨ I enjoy teaching programming
-- 💞️ I hold a PhD on Technology Enhanced Learning
+- 💞️ I hold a PhD in Technology Enhanced Learning
 - 🌱 I’m currently studying educational psychology
 - 📫 Reach me at @mkotsovoulou
 
