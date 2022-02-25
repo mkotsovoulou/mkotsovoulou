@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mkotsovoulou
 - 👀 I am an IT Professor at the American College of Greece
+- 📫 I am a virtual instructor at Oracle Academy
 - ✨ I enjoy teaching programming
 - 💞️ I hold a PhD in Technology Enhanced Learning
-- 🌱 I’m currently studying educational psychology
+- 🌱 I currently study Educational Psychology
 - 📫 Reach me at @mkotsovoulou
 
 <!---
