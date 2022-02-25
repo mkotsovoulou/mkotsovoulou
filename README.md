@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mkotsovoulou
-- 👀 I love teaching programming
-- 🌱 I’m currently learning educational psychology
+- 👀 I am an IT Professor at the American College of Greece
+- ✨ I enjoy teaching programming
 - 💞️ I hold a PhD on Technology Enhanced Learning
+- 🌱 I’m currently studying educational psychology
 - 📫 Reach me at @mkotsovoulou
 
 <!---
